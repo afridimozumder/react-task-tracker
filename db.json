@@ -1,10 +1,22 @@
 {
   "tasks": [
     {
-      "text": "Data",
-      "day": "asd",
-      "reminder": false,
+      "text": "Grocery Shopping",
+      "day": "1st January 2022, 10:00 am",
+      "reminder": true,
       "id": 1
+    },
+    {
+      "text": "See Doctor",
+      "day": "5th February 2022, 2:00pm",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Football Match",
+      "day": "17 March 2022, 4:30pm",
+      "reminder": true,
+      "id": 3
     }
   ]
 }
